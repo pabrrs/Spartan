@@ -33,13 +33,13 @@ The program will work in console, so it is recommended the following steps:
 Create a new "VLC Forms Application" on Delphi and can open the console in your project folder. After that, execute the command:
 
 ```
-spartan spare .
+spartan stare .
 ```
 
 The `.` tells Spartan to create the structure in the current folder. If you want to do it in another way, use:
 
 ```
-spartan spare my_awesome_project
+spartan stare my_awesome_project
 ```
 
 Now that we have the structure, let's push the files to the well, THIS IS SPAR... NO WAIT.
